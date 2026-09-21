@@ -22,7 +22,7 @@ Se desarrollara
 - INFORMES
 
 ## DEVELOP TEAM
-+ SM:
++ SM: Angelica Yolotzin Barrera Gonzalez
 + DESARROLLADOR 1:
 ## PILA TECNOLÓGICA
 * LENGUAJES
