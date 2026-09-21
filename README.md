@@ -14,7 +14,7 @@ Se realiza Aplicación Web para la agencia de viajes Italian, para el control de
 Se desarrollara 
 
 ## Funcionalidades
-- [] CRUD USUARIOS
+- CRUD USUARIOS
 - CRUD VIAJES NACIONALES
 - CRUD VIAJES INTERNACIONALES
 - CRUD TOURS
